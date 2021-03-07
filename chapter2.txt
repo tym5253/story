@@ -1,0 +1,5 @@
+i have commited chapter 1 and given msg 
+using -m as "complete chapter1"
+
+using git log i can view all commits 
+
