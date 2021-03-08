@@ -1,0 +1,2 @@
+git branch to create a new branch 
+git checkout to change thethe branch 
